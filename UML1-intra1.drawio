@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2020-01-28T04:14:02.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0-wGVhBvMp7gaeiMy5I9" version="12.5.8" type="github"><diagram id="K8qRYo7VfSwrROCgEjkd" name="Page-1">3Vvbkto4EP0a12xSNZQtX4BHYEjyMLub2qmtnTxtCSyMEtnyCpmBfP1KtnznFsCG8TyA1bq1unVOt6VBMyf+5jOD4fJ36iKiAd3daOaTBoBh2ob4kpJtIhnYZiLwGHZVo1zwgn8iJdSVNMIuWpUackoJx2FZOKdBgOa8JIOM0bdyswUl5VlD6KGa4GUOSV36D3b5Uq0C9HP5F4S9ZTqz4QyTGh+mjdVKVkvo0reCyJxq5oRRypMnfzNBRBovtUvS79Oe2kwxhgJ+Soc//jb//bH905qQ6DMAwXoRPPNHNcoakkgtWAMOEeONQ6ky3yo7OP9FUs+xD5mHA80ciVo93IhPIYxXK+WPnIZJnVWo42jDHyHBnuo3FwojVq520ZwyyDFVbaLARYzgAOVTiydPfccKzlLBKOIoYqlYGGBWbSpkYVW2ZFXJWSsmaMGTyoGsrCqL3Uw76AvbjIPZKjyiWRN6BNQvm2mWLT8UG6haW1YLlBQCa8Q4FggZJS59ip0+Vg5+ShQZU9FqQeL9vsBiH5rjBQ24wrcBVPkT9DGRzPAFkTWSo0rPcJ/IRtncckK02bvtjQxMgoUQ9RFnW9FEdUjhp/gHDFT5LUez4SjZsoDkoZJBRSBeNnKOMfGgYPYLkAMdgNwzXjN0r4grKZfvc455SedWcCdi15zhMLZyB7E1MO4MXFYHwDV18T0HtLp6bUWwG82cBMgbTQ5dhlYrdHD2d80hVplCrP6tKcTuAoVskB8SiO83SNc1LGSkdIWTiKn/ljyv0Yd6MxdyNJovIW89qONVSAM8w0SAUir5QCP8oIHJQ0CDhw8dBCkY3htKnQ6gdEKwtP+dIrSsXQ47EQtrircYh28ztwrDt5mcI4LCJQ0OTv+u+cWxy2/plnMivxhGUwRjgppNkeuhF1UUTC++xoxKwMtxpEcp40vq0QCSZyrtHZvnO+J8q2wKI053GU+OfNh0QhEasTk6oPFwt4kZIlBG0PLR6A5zqa5fKZZ7LHWNXXGNXbU4F3sYcdWrYvRMjfP9MOwA0U/9kEX3yvQyjaor2E4iJab+C3HayRcbWy8Dxxzu4DR9B6f1m6I0Y7ADS1WOC9yRvDbJKa5glSIB5lw3zaVjYRu2fRXVj3pPB3Yq+SYJsmcJBZTgaaMoMylti6WviGGxYAHARHg6RSZUdCxrvDpFWscoMqHuGkXWBnKM23KtUSdbvdfrfaztEpEM4Z9wFhf18h6pwLGK2RnlnPqigsAZImM4/+HFMXRCCWXx4OYi/qsAN98I6qZPza5lB/xHwHoAEXshnF6PXRpCyx3oYrFCjfgvM8UV/McSQnrfDvxV/112sbPrMrUhetV7ZW49wqtXzDLBiVRrN0K1wKkE1cGZVGuBIwM1TLXp3ihsFkNA1ajtmK5Q7ZFs6VKqTW+gKl5skGvNnQ7sMNce8WC7XLvrou/KXLvB/DVtLZ6/5bQrSjnRykIpf30tFgq92uHnU1Nh0Aw/VzJY0zyTn7O3oH0DNc3P9Wugs+H9PvjZapSf1TAVrxrtpcb1C4Ou0/Vhh17Hn499vTcwW3Niv3nWzzNswwZFFjd6um6dc36RBhK9ZzrDYjA5HEpE4fyTkKNhwrppmKjQgHXugUn2D0e3yuLrJ2odz+L7140SlyWB9eOqrnP6YfNfidPtXnr51fpbVZrlNXzrlrG8od17nr7npetShIli/tODxHv5DzjM6f8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-28T04:14:29.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="kZYdEJrgOMFjrrQ5dOWc" version="12.5.8" type="github">
+  <diagram id="K8qRYo7VfSwrROCgEjkd" name="Page-1">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Auteur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idAuteur&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;nomAuteur&lt;br&gt;prenomAuteur&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="280" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Livre&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idLivre&lt;br&gt;titre&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;description&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="281" y="280" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Editeur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idEditeur&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;nomEditeur&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;prenomEditeur&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;adresseEditeur&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41" y="470" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Exemplaire&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idExemplaire&lt;br&gt;position (positive)&lt;br&gt;dateAchat&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;disponibilite (&#39;oui&#39;,&#39;non&#39;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="291" y="470" width="160" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;idClient&lt;br&gt;nomClient&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;prenomClient&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;adresseClient&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;telephoneClient&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="460" width="160" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NU3_kyO4CluG22nvfnLt-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="510" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Emprunt&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;dateEmprunt&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;dateRetour&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-18" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=-0.025;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="NU3_kyO4CluG22nvfnLt-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint"/>
+            <mxPoint x="610" y="510" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-19" value="0...*" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-18" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-20" value="0...*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-18" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-21" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NU3_kyO4CluG22nvfnLt-2" target="NU3_kyO4CluG22nvfnLt-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="380" as="sourcePoint"/>
+            <mxPoint x="420" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-22" value="1...1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-21" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint y="20" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-23" value="1...*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-21" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-24" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NU3_kyO4CluG22nvfnLt-1" target="NU3_kyO4CluG22nvfnLt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint"/>
+            <mxPoint x="270" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-25" value="1...*" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-24" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="70" y="15" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-26" value="1...*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-24" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-70.83" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-27" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.152;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.369;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NU3_kyO4CluG22nvfnLt-4" target="NU3_kyO4CluG22nvfnLt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="410" as="sourcePoint"/>
+            <mxPoint x="280" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-28" value="1...1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-27" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-29" value="1...*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="NU3_kyO4CluG22nvfnLt-27" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-5.32" y="20" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NU3_kyO4CluG22nvfnLt-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NU3_kyO4CluG22nvfnLt-1" target="NU3_kyO4CluG22nvfnLt-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
